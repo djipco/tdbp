@@ -7,7 +7,7 @@ This is my own, very personal, list of best practices to apply when developing T
 
 This list of best practices is only beginning... I would love to hear about all the ways other practionners operate. It would be awesome if this became a coimmunity effort.
 
-## Nomenclature
+## NOMENCLATURE
 
 ### Naming Operators
 
@@ -20,5 +20,5 @@ This list of best practices is only beginning... I would love to hear about all 
 * Each time the data in a channel changes meaning, it should be explicitly renamed accordingly.
 * [Snake-case](https://en.wikipedia.org/wiki/Snake_case) should be used to name channels.
 
-## Structure
+## STRUCTURE & LAYOUT
 
