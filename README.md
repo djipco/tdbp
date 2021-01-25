@@ -11,7 +11,6 @@ This list of best practices is only beginning... I would love to hear about all 
 
 ### Naming Operators
 
-* Operators should be named based on what the operator does (verb) and the data it operates on (noun). 
 * [Snake-case](https://en.wikipedia.org/wiki/Snake_case) should be used to name operators.
 
 ### Naming Channels
