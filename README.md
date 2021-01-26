@@ -12,12 +12,15 @@ This list of best practices is only beginning... I would love to hear about all 
 ### Naming Operators
 
 * [Snake-case](https://en.wikipedia.org/wiki/Snake_case) should be used to name operators.
+* I suggest the use of a 3-letter operator prefix, followed by one or more keywords (e.g. `mth_add_freq`.
+* To keep name lengths short, the use of sensible abbreviations is welcome.
 
 ### Naming Channels
 
-* Channels should explicitly be named after what they represent. 
-* Each time the data in a channel changes meaning, it should be explicitly renamed accordingly.
 * [Snake-case](https://en.wikipedia.org/wiki/Snake_case) should be used to name channels.
+* Channels should explicitly be named after what they represent. 
+* When the data in a channel changes meaning, the channel should be renamed accordingly.
+
 
 ## STRUCTURE & LAYOUT
 
