@@ -1,5 +1,6 @@
 # TouchDesigner Best Practices
-This is my own, very personal, list of best practices to apply when developing TouchDesigner projects. Hopefully, this can be useful to others beginning with TouchDesigner. 
+
+This is my own, **very personal**, list of best practices to apply when developing TouchDesigner projects. Hopefully, this can help people share projects with minimal friction. 
 
 * If you have a suggestion to improve this list, simply submit a pull request.
 
@@ -12,8 +13,11 @@ This list is a work in progress. I would love to hear about all the ways other p
 ### Naming Operators
 
 * [Snake-case](https://en.wikipedia.org/wiki/Snake_case) should be used to name operators.
-* I suggest the use of a 3-letter operator prefix, followed by one or more keywords (e.g. `mth_add_freq`.
-* To keep name lengths short, the use of sensible abbreviations is welcome.
+* To keep names short, the use of sensible abbreviations is welcome. I tend to favour the stripping of all vowels except the first one (e.g. `normalize` becomes `normlz`, `average` becomes `avrg`).
+* The name should start with a 3-letter operator prefix (same as those shown when the viewer is disabled) (e.g. `mth_xxx` or `noi_xxx`).
+* For generators, the prefix should be followed by a noun (e.g. `dmi_lighting` or `afi_music`)
+* For filters, the prefix should be followed by a verb (`mth_multiply_color` or `ana_avrg_audio`)
+
 
 ### Naming Channels
 
