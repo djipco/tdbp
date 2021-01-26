@@ -5,7 +5,7 @@ This is my own, very personal, list of best practices to apply when developing T
 
 * If you disagree about something, [create an issue](https://github.com/djipco/tdbp/issues/new) so we can discuss it further.
 
-This list of best practices is only beginning... I would love to hear about all the ways other practionners operate. It would be awesome if this became a coimmunity effort.
+This list is a work in progress. I would love to hear about all the ways other practionners operate.
 
 ## NOMENCLATURE
 
