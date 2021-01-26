@@ -25,9 +25,11 @@ This is a work in progress. I would love to hear about all the ways other practi
 
 ### Naming Channels
 
-* Channels should explicitly be named after what they represent. 
+* Channels should explicitly be named after what they represent (avoid `chan1` as much as possible).
+
 * When the data in a channel changes meaning, the channel should be renamed accordingly.
 
 
 ## STRUCTURE & LAYOUT
 
+* Try to limit the number of operators in a component and favour modules.
