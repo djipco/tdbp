@@ -6,7 +6,7 @@ This is my own, **very personal**, list of best practices to apply when developi
 
 * If you disagree about something, [create an issue](https://github.com/djipco/tdbp/issues/new) so we can discuss it further.
 
-This list is a work in progress. I would love to hear about all the ways other practionners operate.
+This is a work in progress. I would love to hear about all the ways other practionners operate.
 
 ## NOMENCLATURE
 
