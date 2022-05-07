@@ -37,3 +37,7 @@ This is a work in progress. I would love to hear about all the ways other practi
 ## STRUCTURE & LAYOUT
 
 * Try to limit the number of operators in a component and favour modules.
+
+## PYTHON
+
+* Python code should follow the [PEP8](https://peps.python.org/pep-0008/) standard whenever possible and practical. 
